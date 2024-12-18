@@ -1,0 +1,7 @@
+flask
+requests
+rouge-score
+transformers
+sentencepiece
+torch
+ngrok
